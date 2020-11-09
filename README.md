@@ -1,4 +1,4 @@
-# LOB_Simulation-
+# Project Summary 
 
 In market micro-structure, the study of how the price of nancial assets.
 An asset is resource owned by a company or multinational. It can produce pos-
